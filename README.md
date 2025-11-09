@@ -53,5 +53,5 @@ docker compose down
 ```
 
 ## Development Notes
-
+- LLM was used for framework documentation parsing and test case idea generation
 - The application containers are built from the Dockerfiles in the `frontend/` and `backend/` directories
